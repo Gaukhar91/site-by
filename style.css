@@ -42,7 +42,7 @@ li.none-bg {background:none!important;}
             border-collapse: collapse;
         }
          table{width: 100%; border-collapse: collapse; table-layout:  auto;}
-        table td{height: 10px; border: 1px solid    #ffffff;}
+        table td{height: 10px; border: 1px solid black;}
         table td:first-child {text-align: left;} /* выравнивание по правому краю*/
         td {
         padding: 5px;
