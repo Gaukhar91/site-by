@@ -36,7 +36,7 @@ li.none-bg {background:none!important;}
     line-height: 1;
    }
   table, td {
-            border: 1px solid blue;
+            border: 1px solid black;
         }
         table {
             border-collapse: collapse;
